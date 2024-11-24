@@ -18,6 +18,15 @@ Through this project, I developed key skills such as:
 
 ---
 
+## Dataset
+The dataset used in this project is publicly available on Kaggle.
+
+**Train.csv:** Contains the training data used for modeling.
+**Test.csv:** Contains the test data used for evaluation.
+To run this project, download the train.csv and test.csv files from the Kaggle page and place them in the data/ directory.
+
+---
+
 ## How to Use
 1. Clone this repository:
    ```bash
